@@ -37,7 +37,7 @@
       "title": "More services",
       "items": [
         { "name": "Teeth", "price": "$5.00" },
-        { "name": "De-shede", "price": "$15.00" },
+        { "name": "De-shed", "price": "$15.00" },
         { "name": "Bath only", "price": "$10.00" }
       ]
     },
