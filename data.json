@@ -1,0 +1,62 @@
+{
+  "businessName": "Natasha's Pet Grooming",
+  "phoneDisplay": "910-494-2711",
+  "phoneHref": "+19104942711",
+  "email": "natashapetgrooming@gmail.com",
+  "eyebrow": "At-home pet grooming",
+  "heroLead": "At-home pet grooming for dogs and cats with simple package pricing, haircut options, and extras. Nails are free with any package.",
+  "serviceArea": {
+    "summary": "Based in Raeford, NC. In-home appointments available up to about 1 hour away.",
+    "shortLabel": "Raeford, NC + up to ~1 hour"
+  },
+  "about": "Natasha’s Pet Grooming offers at-home pet grooming in a more personal, comfortable setting. Grooming is available for dogs and cats. Cats fall under the small package, and long-haired cats may have a de-matting fee added if they have a lot of mats. Puppy and kitten packages are also available.",
+  "booking": "The easiest way to book is by phone or email. If you have questions about your pet, pricing, travel distance, pickup/drop-off, cats, kittens, puppies, bathing, or possible de-matting, just ask.",
+  "contactType": "At-home pet grooming",
+  "packageNotes": [
+    "Nails free with any package",
+    "Cats fall under the small package.",
+    "Long-haired cats may have a de-matting fee added if needed."
+  ],
+  "packages": [
+    { "name": "Small", "weight": "1-39 lb.", "price": "$35.00" },
+    { "name": "Medium", "weight": "40-69 lb.", "price": "$45.00" },
+    { "name": "Large", "weight": "70 lb.+", "price": "$55.00" }
+  ],
+  "individualServicesNote": "Individual services are available too, but packages are usually the better deal.",
+  "serviceColumns": [
+    {
+      "title": "Package add-ons",
+      "items": [
+        { "name": "Ears", "price": "$5.00" },
+        { "name": "Anal glands", "price": "$5.00" },
+        { "name": "Paw pads", "price": "$5.00" },
+        { "name": "Sanitary", "price": "$5.00" }
+      ]
+    },
+    {
+      "title": "More services",
+      "items": [
+        { "name": "Teeth", "price": "$5.00" },
+        { "name": "De-shede", "price": "$15.00" },
+        { "name": "Bath only", "price": "$10.00" }
+      ]
+    },
+    {
+      "title": "Haircuts only",
+      "items": [
+        { "name": "Small", "price": "$35.00" },
+        { "name": "Medium", "price": "$45.00" },
+        { "name": "Large", "price": "$55.00" }
+      ]
+    }
+  ],
+  "extras": [
+    { "name": "Puppy package", "price": "$10.00" },
+    { "name": "Kitten package", "price": "$10.00" },
+    { "name": "Pick up", "price": "$10.00" },
+    { "name": "Drop off", "price": "$10.00" },
+    { "name": "Pick/Drop", "price": "$20.00", "note": "may apply if more than 30 minutes away and both are needed" },
+    { "name": "Nails", "price": "$10.00" },
+    { "name": "De-mat only", "price": "$5.00-$25.00", "note": "depends on how bad it is" }
+  ]
+}
